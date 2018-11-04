@@ -1,5 +1,7 @@
 {
   "name": "dic_day09",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "4"
+  }
 }
